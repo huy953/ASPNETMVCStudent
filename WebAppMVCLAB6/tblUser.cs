@@ -12,14 +12,11 @@ namespace WebAppMVCLAB6
     using System;
     using System.Collections.Generic;
     
-    public partial class Enrollment
+    public partial class tblUser
     {
-        public int EnrollmentID { get; set; }
-        public Nullable<int> CourseID { get; set; }
-        public Nullable<int> StudentID { get; set; }
-        public Nullable<decimal> Grade { get; set; }
-    
-        public virtual Courses Cours { get; set; }
-        public virtual Student Student { get; set; }
+        public int UserID { get; set; }
+        public string Username { get; set; }
+        public string Password { get; set; }
+        public string Email { get; set; }
     }
 }

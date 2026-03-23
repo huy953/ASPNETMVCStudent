@@ -17,7 +17,7 @@ namespace WebAppMVCLAB6
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Department()
         {
-            this.Courses = new HashSet<Cours>();
+            this.Courses = new HashSet<Courses>();
         }
     
         public int DepartmentID { get; set; }
@@ -26,6 +26,6 @@ namespace WebAppMVCLAB6
         public System.DateTime StartDate { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Cours> Courses { get; set; }
+        public virtual ICollection<Courses> Courses { get; set; }
     }
 }

@@ -45,6 +45,15 @@
     <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="EnrollmentDate" Type="date" Nullable="false" />
   </EntityType>
+  <EntityType Name="tblUser">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+  </EntityType>
   <Association Name="FK__Courses__Departm__4D94879B">
     <End Role="Departments" Type="Self.Departments" Multiplicity="0..1" />
     <End Role="Courses" Type="Self.Courses" Multiplicity="*" />
@@ -87,6 +96,7 @@
     <EntitySet Name="Enrollments" EntityType="Self.Enrollments" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Instructors" EntityType="Self.Instructors" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblUser" EntityType="Self.tblUser" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="FK__Courses__Departm__4D94879B" Association="Self.FK__Courses__Departm__4D94879B">
       <End Role="Departments" EntitySet="Departments" />
       <End Role="Courses" EntitySet="Courses" />

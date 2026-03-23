@@ -10,7 +10,7 @@ using WebAppMVCLAB6;
 
 namespace WebAppMVCLAB6.Controllers
 {
-    public class CoursController : Controller
+    public class CoursesController : Controller
     {
         private SchoolDBLAB6Entities db = new SchoolDBLAB6Entities();
 
@@ -28,7 +28,7 @@ namespace WebAppMVCLAB6.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Cours cours = db.Courses.Find(id);
+            Courses cours = db.Courses.Find(id);
             if (cours == null)
             {
                 return HttpNotFound();
@@ -48,7 +48,7 @@ namespace WebAppMVCLAB6.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "CourseID,Title,Credits,DepartmentID")] Cours cours)
+        public ActionResult Create([Bind(Include = "CourseID,Title,Credits,DepartmentID")] Courses cours)
         {
             if (ModelState.IsValid)
             {
@@ -68,7 +68,7 @@ namespace WebAppMVCLAB6.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Cours cours = db.Courses.Find(id);
+            Courses cours = db.Courses.Find(id);
             if (cours == null)
             {
                 return HttpNotFound();
@@ -82,7 +82,7 @@ namespace WebAppMVCLAB6.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "CourseID,Title,Credits,DepartmentID")] Cours cours)
+        public ActionResult Edit([Bind(Include = "CourseID,Title,Credits,DepartmentID")] Courses cours)
         {
             if (ModelState.IsValid)
             {
@@ -101,7 +101,7 @@ namespace WebAppMVCLAB6.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Cours cours = db.Courses.Find(id);
+            Courses cours = db.Courses.Find(id);
             if (cours == null)
             {
                 return HttpNotFound();
@@ -114,7 +114,7 @@ namespace WebAppMVCLAB6.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
-            Cours cours = db.Courses.Find(id);
+            Courses cours = db.Courses.Find(id);
             db.Courses.Remove(cours);
             db.SaveChanges();
             return RedirectToAction("Index");
