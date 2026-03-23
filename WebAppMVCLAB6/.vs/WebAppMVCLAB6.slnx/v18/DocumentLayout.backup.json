@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\controllers\\courscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:controllers\\courscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|f:\\hk2 25-26\\cnpm\\lab6\\webappmvclab6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D1BC723-26F0-4D98-9B33-453E032C9EEA}|WebAppMVCLAB6.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +55,122 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:24:43.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursController.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\CoursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursController.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\CoursController.cs",
+              "RelativeToolTip": "Controllers\\CoursController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:24:17.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:23:58.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T05:09:30.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorsController.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "Controllers\\InstructorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:23:38.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:23:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-03-23T05:16:38.601Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-23T05:11:09.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\LAB6\\WebAppMVCLAB6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T05:09:11.291Z",
+              "EditorCaption": ""
             }
           ]
         }

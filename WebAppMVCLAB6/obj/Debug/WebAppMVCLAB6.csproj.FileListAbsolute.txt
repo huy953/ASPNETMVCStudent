@@ -77,3 +77,7 @@ F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\obj\Debug\WebAppMVCLAB6.csproj.CoreCompileI
 F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\obj\Debug\WebAppMV.07755854.Up2Date
 F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\obj\Debug\WebAppMVCLAB6.dll
 F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\obj\Debug\WebAppMVCLAB6.pdb
+F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\bin\EntityFramework.dll
+F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\bin\EntityFramework.SqlServer.dll
+F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\bin\EntityFramework.xml
+F:\HK2 25-26\CNPM\LAB6\WebAppMVCLAB6\bin\EntityFramework.SqlServer.xml
